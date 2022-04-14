@@ -1,3 +1,1 @@
-# angular-crypto-dh1rmm
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-crypto-dh1rmm)
+# Angular AES-128 encryption and decryption demo
